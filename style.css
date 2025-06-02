@@ -4,5 +4,7 @@
 }
 
 body {
-    background-image: url(assets/img/premium_photo-1672201106204-58e9af7a2888.avif);
+    background-image: url(assets/img/pieds-sante-orteils-podiatre.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
